@@ -1,0 +1,17 @@
+{
+  "name": "node-sitemap-generator",
+  "version": "0.0.1",
+  "description": "Tool to create sitemap XML files easily for Node.js apps",
+  "main": "index.js",
+  "keywords":["sitemap", "sitemaps","sitemap.xml","generator"],
+  "author":"Santi Pérez <s.perez@ondho.com>",
+  "license": "MIT",
+   "bugs": {
+        "url": "https://github.com/santiperez/node-sitemap-generator/issues"
+   },
+  "homepage": "https://github.com/santiperez/node-sitemap-generator/",
+  "dependencies": {
+      "ejs":"^2.3.1 ",
+      "q":"^1.2.0"
+  }
+}
