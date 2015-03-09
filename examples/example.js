@@ -5,7 +5,7 @@ var Q = require('q');
 
 sitemapsGenerator = sG.init('http://example.com',true);
 
-var basePath=path.join(__dirname,'bin');
+var basePath=path.join(__dirname,'results');
 
 var promise = Q.all([
     sitemapsGenerator.createSitemap(path.join(basePath,'sitemap1.xml'),['level1','level2','level1/level11','level1/level12','level2/level21']),
