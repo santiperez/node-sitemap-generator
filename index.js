@@ -1,2 +1,2 @@
-module.exports = require('./lib/siteMapsGenerator.js');
+module.exports = require('./lib/sitemapsGenerator.js');
 
