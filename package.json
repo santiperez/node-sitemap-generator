@@ -1,6 +1,6 @@
 {
   "name": "node-sitemap-generator",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Tool to create sitemap XML files easily for Node.js apps",
   "main": "index.js",
   "keywords": [
